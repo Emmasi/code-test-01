@@ -7,7 +7,11 @@
   To start - `npm run dev`
 
   To run test - `npm test`
-  
+
+## Project structure
+
+![project-structure](/project-structure.svg)
+
 ## Approach
 I started by reading the requirements to understand the task and plan how I should set the bounderies.
 
